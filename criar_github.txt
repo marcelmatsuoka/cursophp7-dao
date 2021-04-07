@@ -1,0 +1,29 @@
+
+/**
+ Criar projeto GITHUB
+ Abre Pasta do projeto 
+ Clica botao direito 
+ seleciona Git bash here
+ no GitBash
+ 
+ $ git init
+ 
+ Criar projeto remoto site github copiar url
+ 
+ Adicionar site remoto
+ $ git remote add origin https://github.com/marcelmatsuoka/cursophp7-dao.git 
+ 
+ Importar dados 
+ $ git pull origin master
+ 
+ Adiciona dados no stage area do github
+ $ git add --all
+ 
+ Adicioanar comentarios para o commit 
+ $ git commit -m "Inicio de projeto"
+ 
+ Atualizar projeto 
+ $ git push origin master
+
+ * 
+ */
